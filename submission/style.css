@@ -1,0 +1,42 @@
+.color{
+    color: white;
+    background-color: red;
+    
+}
+.center{
+    text-align: center;
+}
+
+.rightb{
+     list-style-position: initial;
+     text-align: right;
+
+}
+
+.righta{
+    text-align: right;
+}
+
+.line{
+    width: 50%;
+}
+
+.small{
+    width: 100px;
+}
+
+.image{
+    width: 500px;
+    float: right;
+    margin: 0 0 0 15px;
+}
+
+.times{
+    font-family: 'Times', serif;
+    font-size: 30px
+    
+}
+
+table,th,td{
+    border: 1px solid black;
+}
